@@ -1,0 +1,33 @@
+
+    body {
+      background-color: #EAF6F6;
+      font-family: 'Courier New', monospace;
+    }
+
+    hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 5%;
+    }
+
+    h3 {
+      color: #66BFBF;
+    }
+
+    h1 {
+      color: #08415C;
+      white-space: normal;
+    }
+
+    p {
+      text-indent: 50px;
+      text-align: justify;
+      letter-spacing: 3px;
+    }
+
+    a {
+      text-decoration: none;
+      color: #008CBA;
+    }
